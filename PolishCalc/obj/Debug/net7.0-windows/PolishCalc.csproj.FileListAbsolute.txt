@@ -1,0 +1,17 @@
+H:\repo\PolishCalc\bin\Debug\net7.0-windows\PolishCalc.exe
+H:\repo\PolishCalc\bin\Debug\net7.0-windows\PolishCalc.deps.json
+H:\repo\PolishCalc\bin\Debug\net7.0-windows\PolishCalc.runtimeconfig.json
+H:\repo\PolishCalc\bin\Debug\net7.0-windows\PolishCalc.dll
+H:\repo\PolishCalc\bin\Debug\net7.0-windows\PolishCalc.pdb
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.csproj.AssemblyReference.cache
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.Form1.resources
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.csproj.GenerateResource.cache
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.GeneratedMSBuildEditorConfig.editorconfig
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.AssemblyInfoInputs.cache
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.AssemblyInfo.cs
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.csproj.CoreCompileInputs.cache
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.dll
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\refint\PolishCalc.dll
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.pdb
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\PolishCalc.genruntimeconfig.cache
+H:\repo\PolishCalc\obj\Debug\net7.0-windows\ref\PolishCalc.dll
